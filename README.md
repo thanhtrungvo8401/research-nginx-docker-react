@@ -1,1 +1,0 @@
-# research-nginx-docker-react
